@@ -1,0 +1,31 @@
+
+#table th {
+  font-weight: bold;
+  padding: 5px;
+  background: #efefef;
+  border: 1px solid #dddddd;
+  text-align: center;
+}
+#table td {
+  border: 1px solid #dddddd;
+  padding: 5px;
+  text-align: center;
+}
+h1{
+ background-color:brown;
+ color:white;
+ padding:20px;
+ text-align: center;
+}
+.myform input{
+ margin:5px;
+}
+#table{
+ margin:100px;
+}
+.firstrow{
+  display: none;
+}
+body{
+  background: #f0f3f4;
+}
